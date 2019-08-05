@@ -11,7 +11,7 @@ Overview of the algorithm:
 The default network for DML is ResNet32.  
 Train 2 models using DML by main.py:  
 ```
-python train.py
+python train.py --model_num 2
 ```
 Use tensorboard to monitor training process on choosing port:
 ```
