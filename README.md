@@ -19,5 +19,5 @@ tensorboard --logdir logs --port 6006
 ```
 # Result
 | Network | ind_avg_acc | Dml_avg_acc|
-|---------|------------:|-----------:|
+|---------|:-----------:|:----------:|
 |ResNet32 |   69.83%    | **71.03%** |
