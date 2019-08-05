@@ -18,4 +18,6 @@ Use tensorboard to monitor training process on choosing port:
 tensorboard --logdir logs --port 6006
 ```
 # Result
-<img src="https://raw.githubusercontent.com/chxy95/Deep-Mutual-Learning/master/images/Result.png">
+| Network | ind_avg_acc | Dml_avg_acc|
+|---------|------------:|-----------:|
+|ResNet32 |   69.83%    | **71.03%** |
