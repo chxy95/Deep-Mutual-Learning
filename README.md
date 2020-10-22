@@ -1,5 +1,5 @@
 # Deep-Mutual-Learning
-Unofficial implementation of Deep Mutual Learning by Pytorch to do classification on cifar100.  
+This is an unofficial implementation of Deep Mutual Learning by Pytorch to do classification on cifar100.  
 The algorithm was proposed in *《Deep Mutual Learning》 (CVPR 2017)*.
 # Dependence
 Pytorch 1.0.0  
